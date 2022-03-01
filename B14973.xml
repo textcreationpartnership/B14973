@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corant or vveekly nevves, from Italy, Germany, Hungaria, Polonia, Bohemia, France, and the Low-Countries</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14973</idno>
+            <idno type="STC">STC 18507.31</idno>
+            <idno type="STC">ESTC S119549</idno>
+            <idno type="EEBO-CITATION">99854756</idno>
+            <idno type="PROQUEST">99854756</idno>
+            <idno type="VID">177358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7w)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corant or vveekly nevves, from Italy, Germany, Hungaria, Polonia, Bohemia, France, and the Low-Countries</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. B[utter] [sic] October the 2. 1621. Out of the Hie Dutch coppy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title. Printer's name from STC.</note>
+                  <note>Formerly STC 5748.</note>
+                  <note>Identified as STC 5748b on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound and filmed with other issues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="news">
+            <pb facs="tcp:177358:1" rendition="simple:additions"/>
+            <head>CORANT OR VVEEKLY NEVVES, FROM Italy, Germany, Hungaria, Polonia, Bohemia, France, and the Low-Countries.</head>
+            <div type="entry">
+               <head>From Vianna the 14. of September. 1621.</head>
+               <p>FRom the King of Pole the Emperor receiued letters the laſt Tueſday, the Captaine that brought them re<g ref="char:EOLhyphen"/>porteth that the Turke hath receiued <hi>4.</hi> ouerthrowes: in the firſt incounter he loſt <hi>40000.</hi> in the ſecond <hi>14000.</hi> in the third <hi>9000.</hi> in the laſt <hi>4000.</hi>
+               </p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 14. of September. 1621.</head>
+               <p>
+                  <hi>Bethlem Gabor</hi> hath raiſed his ſiege and fortified him<g ref="char:EOLhyphen"/>ſelfe about a Dutch mile from this City, purpoſing then to offer the Emperor Battell: who hath now gathered all his forces into one Body: Euery day wée heare of hundreds and ſometimes thouſands ſlaine, which are onely light skirmiſhes to fleſh them againſt the maine encounter.</p>
+               <p>
+                  <hi>Budianus</hi> in the meane while ſtanding in awe of no bo<g ref="char:EOLhyphen"/>dy: <hi>Colalto</hi> who attended him with <hi>8000.</hi> being called to the Campe, playes the fury, and with his <hi>5000.</hi> Horſe doth more endamage the Emperials, then the whole Ar<g ref="char:EOLhyphen"/>my of the Bethlemiſts: yeſterday to outbraue the Em<g ref="char:EOLhyphen"/>peror hée paſſed by the walls of this Citty towards Ba<g ref="char:EOLhyphen"/>uaria, burning all before him as he went, his errand to carry <hi>Recaudo</hi> from <hi>Bethlem</hi> to the Duke, and to giue him notice that hée purpoſeth to viſit him ſhortly, the which (if ſo diſpoſed he may eaſily doe) there being no poſ<g ref="char:EOLhyphen"/>ſibility of oppoſing him before he come to the Bauarian Army, which is <hi>300.</hi> miles from hence.</p>
+            </div>
+            <div type="entry">
+               <head>From Breſlaw the 4. of September. 1621.</head>
+               <p>In this Countrey the Sileſian ſoldiours haue a good time, are ſecure, haue what they will, take whatſoeuer they can get againſt mens wills, conſume the Country and the Townes, and yet will be paid at the full. Which is a ſpeciall puniſhment of God layd vpon this Countrey.</p>
+            </div>
+            <div type="entry">
+               <head>From Chur in Zwitzerland the 30. of Auguſt. 1621.</head>
+               <p>
+                  <hi>Madalon</hi> the extraordinary French Ambaſſador, had made promiſe to the leaguers, to ſhew them his Commiſ<g ref="char:EOLhyphen"/>ſion from the King vpon the <hi>31.</hi> of this month, yet pro<g ref="char:EOLhyphen"/>longed it off <hi>8</hi> dayes more, and then aſſured them with<g ref="char:EOLhyphen"/>out further delay to ſhew it vnto them, Which they will hardly truſt, conſidering that the enemy, the longer the more time had to ſtrengthen himſelfe. As vpon the <hi>25.</hi> of this month, there came <hi>30.</hi> Companies of Spaniards, &amp; <hi>18.</hi> Companies of Neopolitanes from Millain, and that dayly <hi>30.</hi> Drums ſtill ſounded to take vp Soldiers, which is to late in the yeare to ſend to the Emperor, and there<g ref="char:EOLhyphen"/>fore thoſe Soldiers ſhould be imployed in the places nea<g ref="char:EOLhyphen"/>reſt there abouts. Therefore they made him anſwere, if that after the ſaid <hi>8.</hi> dayes reſpite ſo required, he ſhould ſéeke for a longer prologation, that without further ſpeaking vnto him, they wold giue him the contract back againe, and would procéed with their reſolution. Where<g ref="char:EOLhyphen"/>upon y<hi rend="sup">e</hi> ſaid Ambſſador hath diſtributed <hi>26000.</hi> francks penſion, and the people of the there Bunten are ſo well pacified and agrée together, as in <hi>17.</hi> yeares before they neuer were more. They of Zuenicke and Bearne alſo haue promiſed them their ayde, and the Bund<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>naers haue put <hi>2400.</hi> musketiers that lay in nether Engadien for their ſecurity, in the places bording vpon the frontiers of the Archduke <hi>Leopoldus</hi> Countrey.</p>
+            </div>
+            <div type="entry">
+               <head>From Vien the 18. of September. 1621.</head>
+               <p>From the fronters of Caniſeche, there is newes, that the Budiane with ayde from the Turke hath taken the Fort of Kementh againe, and is determined alſo to take the Towne and Caſtle of Gius againe, and doth great hurt and damage by ranſacking &amp; burning, without reſi<g ref="char:EOLhyphen"/>ſtance about Newſtadt, and it is feared that they wil at<g ref="char:EOLhyphen"/>tempt ſomthing vpon the ſuburbs. There are many poor people that goe here abouts to beg, And to conclude, the neceſity and miſery is ſo great here amongſt our people, as alſo among the enemies where they lye, that it is vn<g ref="char:EOLhyphen"/>ſpeakable, and the Gretzer way or paſſage is ſo dange<g ref="char:EOLhyphen"/>rous, that no man dares looke abroad.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 9. of September. 1621.</head>
+               <p>
+                  <hi>Bethlem Gabor</hi> is now at Schindow, where he ſtaies for <hi>20000.</hi> Turkes to come vnto him, the Marquis of Iagerenſdorp is with his Dutch forces, &amp; ten Thouſand Hungarians gone ouer Wittenbergh to Morauia, alſo the Budianer, the longer doth the more great hurt, to whom the Baſſa of Natolia with <hi>12000.</hi> Turks is com<g ref="char:EOLhyphen"/>ming to ayd him. And as newes now coms, he hath taken the Towne and Caſtle of Guns by force.</p>
+            </div>
+            <div type="entry">
+               <head>From Prague the 9. of September. 1621.</head>
+               <p>There is no newes here, this day the <hi>2.</hi> Companies of Ritters haue receiued a month &amp; a halfe pay, and are this day gone towards Morauia, becauſe it is feared that the Hungarians, will enter into it againe, and it is not certainly knowne, whether <hi>Don Balthaſar</hi> hath left his ſiege before Tabor or not.</p>
+            </div>
+            <div type="entry">
+               <head>From Spiers the 14. of September. 1621.</head>
+               <p>Laſt Friday, Generall <hi>Veere</hi> ſent a Trumpet to the Biſhop of Spiers, with a Letter to this effect, that foraſ<g ref="char:EOLhyphen"/>much as <hi>don Cordoua</hi> was entred further into the Pa<g ref="char:EOLhyphen"/>latinate, and had taken the Caſtle of Stein, and had vſed great tyrannie againſt the Subiects, and Church<g ref="char:EOLhyphen"/>men, and that he was certified, that he had bin the motio<g ref="char:EOLhyphen"/>ner thereof, and moued <hi>Don Cordoua</hi> thereunto, as alſo that he had holpen to maintain the Bauarian army with mony, be thought good to aduertiſe the ſaid Biſhop, not onely to forbeare ſending mony to the Catholike league, as alſo without delay ſpecially to ſend the Spaniards a<g ref="char:EOLhyphen"/>gaine out of his Territories, and if not, hée would deale in like manner with the Country and people, ſpecially with the Prieſts, as <hi>Don Cordona</hi> hath done in the Pa<g ref="char:EOLhyphen"/>latinats, which is a matter to bréed war. Whereupon the Biſhop ſent a friendly anſwer &amp; excuſe, in this manner; that although he were by the ſaid General eſtéemed to be an enemy, &amp; that by him his poore Subiects in the Market were ranſackt and ſpoyl'd, yet it was no furtherance nor good vnto him to haue the innocent poore people in the Pa<g ref="char:EOLhyphen"/>latinate, for a reuenge thereof to be aſſayled, whereunto he ſaid, that he neither gaue counſell nor was any fur<g ref="char:EOLhyphen"/>therer vnto the ſame, and much leſſe had meanes to di<g ref="char:EOLhyphen"/>uert the Spaniſh ſoldiers.</p>
+               <p>The vniuerſall defence ſhall be taken in hand, &amp; with all ſpéed put in effect, to the which end, the Duke of Lo<g ref="char:EOLhyphen"/>rains ambaſſador is now with the Biſhop at Odenheim, and to that end there are Letters of aduiſe ſent to the neighbour Townes and States.</p>
+            </div>
+            <div type="entry">
+               <head>From Bergſtrate the 15. of September. 1621.</head>
+               <p>In the Palatinate, euery one be he rich or poore, frée or not, within <hi>3.</hi> monthes muſt pay <hi>18.</hi> Florins for the pay<g ref="char:EOLhyphen"/>ment of the Soldiers, but it is ſaid that the Townes will not pay it, before they haue their Lord.</p>
+               <p>The Ship bridge made by the Spaniards by Stein, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:177358:2"/>ready, and yeſterday Wattenheim was burnt by the Spaniards. They of the Palatinate to the contrary lye ſtill, it is thought the Spaniards now with their whole forces, will ouerrun all Bergſtrate, and run almoſt to the gates of Heidelbergh, and it is to be feared (if no ayde comes) that all the lower Palatinate will be loſt, for that there are no more but <hi>3.</hi> Townes to be wonne in it, <hi>viz.</hi> Heydelbergh, Franckendall and Manheim.</p>
+               <p>They of Benſheim in Bergſtraet haue ſought for helpe of other Townes, which is promiſed them, and the ſaid Towne hath taken the keyes from the Soldiers, and will aſſure the Towne themſelues.</p>
+            </div>
+            <div type="entry">
+               <head>From Ambergh the 16. of September. 1621.</head>
+               <p>For that they of Lichtenbergh, in Werenbergh, and Schimthutten in the ſaid paſſage haue ſundry times ſhewed themſelues to be enemies, to the Earle of Manſ<g ref="char:EOLhyphen"/>field, vpon the laſt Friday he ſent certaine Horſe &amp; Foot<g ref="char:EOLhyphen"/>men with ſome péeces of great Ordinance, thetherward, to take the ſaid paſſage, and to put garriſon into it, and on Sunday at night ſecretly ſent <hi>4.</hi> Companies of Sol<g ref="char:EOLhyphen"/>diers to Camp, and quartered them there.</p>
+               <p>The laſt Friday, there came <hi>500.</hi> Bauarian ſoldiers to Freimt, whereupon on Sunday laſt the Earle of Mansfield ſent <hi>4000.</hi> foot, and <hi>8.</hi> Companies of Rit<g ref="char:EOLhyphen"/>ters, thetherward to aſſayle them, but they refuſing to yéeld vp the place, he began to batter it, and yeſterday tooke it, wherein the Bauarians with the moſt part of the Burgers were ſlaine, and the Towne &amp; Caſtle who<g ref="char:EOLhyphen"/>ly ranſackt, wherein there was great ſtore of goods, that was brought thether by thoſe that fled, after that the ſub<g ref="char:EOLhyphen"/>urbes were burnt.</p>
+            </div>
+            <div type="entry">
+               <head>From the Palatinate the 17. of September. 1621.</head>
+               <p>
+                  <hi>Don Hermancos de Cordoua</hi> lyes ſtill with his forces by Rem Turckheim, and Generall <hi>Veere</hi> with a part of his forces, horſe and footmen, lyeth at Birſtadt, and in the Bergh ſtréet way, to hinder the Spaniards from ran<g ref="char:EOLhyphen"/>ſacking and winning abroad: what will folowe thereof, time will reueale.</p>
+            </div>
+            <div type="entry">
+               <head>From Berghſtrate the 18. of September 1621.</head>
+               <p>The towne of Benſheim is ſomoned by the Spaniards to yeild it ſelfe, and they haue required <hi>3.</hi> dayes truce, which being paſt, yet we heare of no attempt, they with<g ref="char:EOLhyphen"/>in the Towne haue <hi>1600.</hi> well mounted Ritters, and daily fortifie themſelues, and haue gotten ſome great Or<g ref="char:EOLunhyphen"/>dinance and munition: It is thought that they in Bergh<g ref="char:EOLhyphen"/>ſtrate will ſtand vpon their defence.</p>
+               <p>It is ſaid that there is a new leuie of Soldiers made for the King of Bohemia, and that there ſhall be <hi>6000.</hi> foote, and <hi>1000.</hi> horſmen more taken vp for him.</p>
+               <p>From France we vnderſtand, that the King with his Army lyes ſtill before Mountalbon, &amp; battreth the towne with <hi>45.</hi> pieces of Canon, but they within valiantly re<g ref="char:EOLhyphen"/>ſiſt him, ſo it is apparant that the towne will holde out as long as poſſibly it can.</p>
+               <p>Touching the beſieging of Gulicke, there is nothing to the purpoſe done, onely that the Spaniards begin to make <hi>3.</hi> Bulwarkes before it, <hi>2.</hi> of them being almoſt ready, but yet ſo farre from the towne, that they ſéeme to be made rather for the defence of their Army, and a let<g ref="char:EOLhyphen"/>ting of the Garriſon from iſſuing out vpon them, then o<g ref="char:EOLhyphen"/>uercome the towne, ſo that it is thought that the ſaid towne ſhall onely be Bulwarked about.</p>
+               <p>Letters from Brigges certifie, that there paſt at leaſt <hi>12000,</hi> ſelected Soldiers, horſe and footemen, by that towne: with all kind of preparation, as Scopes, Spades Baſkets, Scuts, &amp;c. Men ſuppoſing here, that they will doe ſome wondrous thing.</p>
+               <p>The Ditches in Flanders being cut through, the wa<g ref="char:EOLhyphen"/>ters runs vp into the Country all about Gant and Bru<g ref="char:EOLhyphen"/>ges, the water lyeth in the Land, whereby their neceſſities is great thereabouts.</p>
+            </div>
+            <div type="entry">
+               <head>From the Prince of Orange his Army.</head>
+               <p>Here there are Commiſſions giuen out, for <hi>Chriſtian</hi> Prince of Anholt, to leuie <hi>1500.</hi> horſmen, and he hath <hi>3.</hi> monthes time limmited vnto him to goe into the Palati<g ref="char:EOLhyphen"/>nate: he alſo ſhall haue with him <hi>5000.</hi> footmen, he hath already a great number together with him, there goes <hi>Adolph Plaſman,</hi> Yonker <hi>Haeſten, Monſ. Quaet, We<g ref="char:EOLhyphen"/>ſterholt</hi> and others: It is ſaid that the King will ſend with him <hi>500.</hi> horſe, and the Prince of Orange <hi>500.</hi> horſe more.</p>
+               <p>The <hi>20.</hi> of this month, Marquis <hi>Spinola</hi> paſt ouer the Bridge with <hi>20.</hi> or <hi>22.</hi> Coronets of horſmen, toward our Army, but attempted nothing, but went backe again to Diſfort houſe, where the poor Country men (yet neu<g ref="char:EOLhyphen"/>trals) that were gone thither to ſaue themſelues, with their Cattle and other goods, were pittifilly ſpoyled.</p>
+               <p>The Prince cauſeth the Cloyſter Schellendorp, be<g ref="char:EOLhyphen"/>twéene Rées and Biſlicke, cloſe by the Hauen maſters, to be Intrenched, and haue ſent for great ſtore of Lathes and Palliſadoes.</p>
+               <p>The <hi>2,</hi> young Kings, and the young Princes, being <hi>5.</hi> in number, that were ſent out of Eaſt India to the Prince of Orenge, and the Eaſt India Company héere in theſe Countries, to be brought vp in Learning, by common aduiſe of the Company, are ſent to the Latine ſchoole in Amersfort, and vpon the <hi>24.</hi> of the month of Auguſt entered therein.</p>
+               <p>From Montabon it is written that Duke de Mayne, did intreat the King, that no mercy might be ſhewed to this Towne, but that all might be put to the Sword.</p>
+               <p>The Gunpowder in his quarter was ſet on fire, by them out of the Towne, ſhooting wilde fier amongſt it.</p>
+               <p>The Duke <hi>de Rohan</hi> hath <hi>8000.</hi> men ready, and is within one dayes Iourney, going to ayde the Towne a<g ref="char:EOLhyphen"/>gainſt the King.</p>
+               <p>The Cittizens of Montalbon haue hang'd vp <hi>6.</hi> tray<g ref="char:EOLhyphen"/>tors, that ſought to betray the Town to the King, whoſe heades were cut off, and ſet vpon poles, for a terror to o<g ref="char:EOLhyphen"/>thers, one of them being Sergeant maior of the Towne whoſe name was <hi>Sauage,</hi> who betrayed the Towne of Neracke before to the King.</p>
+               <p>There is a Poſt come to Paris from Spaine, that is gone to Flanders, who ſaith, that the King of Spaine will be in Flanders in his owne perſon, before winter.</p>
+               <p>It is written from Paris, by a Gentleman that ſawe it, that there was a wonderfull ſtrange apparition ſéene in the ayre vpon Sunday night the <hi>2.</hi> of September laſt, the whole ſky ſéemed like the forme of a Tent, out of the which there iſſued certaine forces, fighting one with ano<g ref="char:EOLhyphen"/>ther, afterwards the whole Element ſéemed to be on fire, In the end, the ſaid forces were reduced into a round cir<g ref="char:EOLhyphen"/>cle, not much vnlike the beſieging of a Towne.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for N. B October the 2. 1621. Out of the Hie Dutch Coppy.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
